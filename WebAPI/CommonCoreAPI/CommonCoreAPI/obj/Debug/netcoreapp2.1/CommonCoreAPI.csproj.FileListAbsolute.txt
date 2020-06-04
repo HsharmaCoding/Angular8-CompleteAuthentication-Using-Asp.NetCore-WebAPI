@@ -1,0 +1,6 @@
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.1\CommonCoreAPI.csprojAssemblyReference.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.1\CommonCoreAPI.csproj.CoreCompileInputs.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.1\CommonCoreAPI.RazorAssemblyInfo.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.1\CommonCoreAPI.RazorAssemblyInfo.cs
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.1\CommonCoreAPI.AssemblyInfoInputs.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.1\CommonCoreAPI.AssemblyInfo.cs

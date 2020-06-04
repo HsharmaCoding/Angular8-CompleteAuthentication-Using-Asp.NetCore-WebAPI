@@ -1,0 +1,10 @@
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\bin\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.deps.json
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\bin\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.runtimeconfig.json
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\bin\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.runtimeconfig.dev.json
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\bin\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\bin\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.pdb
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\obj\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\obj\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.AssemblyInfoInputs.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\obj\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.AssemblyInfo.cs
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\obj\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI.DataAccess\obj\Debug\netcoreapp2.2\CommonCoreAPI.DataAccess.pdb

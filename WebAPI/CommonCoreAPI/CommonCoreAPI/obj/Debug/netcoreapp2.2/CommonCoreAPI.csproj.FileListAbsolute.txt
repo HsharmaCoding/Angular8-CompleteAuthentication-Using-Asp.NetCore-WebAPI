@@ -1,0 +1,69 @@
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.deps.json
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.runtimeconfig.json
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.runtimeconfig.dev.json
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.pdb
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.DataAccess.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Domain.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Helper.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Services.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Helper.pdb
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Services.pdb
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.DataAccess.pdb
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Domain.pdb
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csprojAssemblyReference.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csproj.CoreCompileInputs.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorAssemblyInfo.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorAssemblyInfo.cs
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.AssemblyInfoInputs.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.AssemblyInfo.cs
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorTargetAssemblyInfo.cache
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csproj.CopyComplete
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.dll
+C:\PracticeAngular\CodeSerculation\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.pdb
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.deps.json
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.runtimeconfig.json
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.runtimeconfig.dev.json
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.dll
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.pdb
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.DataAccess.dll
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Domain.dll
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Helper.dll
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Services.dll
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Helper.pdb
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Services.pdb
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.DataAccess.pdb
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Domain.pdb
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csprojAssemblyReference.cache
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csproj.CoreCompileInputs.cache
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorAssemblyInfo.cache
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorAssemblyInfo.cs
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.AssemblyInfoInputs.cache
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.AssemblyInfo.cs
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorTargetAssemblyInfo.cache
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csproj.CopyComplete
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.dll
+C:\PracticeAngular\CodeCerculation\2. My Profile\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.pdb
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.deps.json
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.runtimeconfig.json
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.runtimeconfig.dev.json
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.dll
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCoreAPI.pdb
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.DataAccess.dll
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Domain.dll
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Helper.dll
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Services.dll
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Helper.pdb
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Services.pdb
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.DataAccess.pdb
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\bin\Debug\netcoreapp2.2\CommonCore.Domain.pdb
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csprojAssemblyReference.cache
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csproj.CoreCompileInputs.cache
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorAssemblyInfo.cache
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorAssemblyInfo.cs
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.AssemblyInfoInputs.cache
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.AssemblyInfo.cs
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.RazorTargetAssemblyInfo.cache
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.csproj.CopyComplete
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.dll
+C:\PracticeAngular\CodeCirculation\Complete Authentication\WebAPI\CommonCoreAPI\CommonCoreAPI\obj\Debug\netcoreapp2.2\CommonCoreAPI.pdb
