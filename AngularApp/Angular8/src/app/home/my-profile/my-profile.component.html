@@ -1,0 +1,30 @@
+<form [formGroup]="userService.myProfileModel" autocomplete="off" (submit)="onSubmit()">
+    <h2>My Profile</h2>
+    <div class="form-group">
+        <label for="exampleRole">Role</label>
+        <input type="text" class="form-control" aria-describedby="emailHelp" formControlName="Role" disabled>
+    </div>
+
+    <div class="form-group">
+        <label for="exampleInputEmail">Email Address</label>
+        <input type="email" class="form-control" aria-describedby="emailHelp" formControlName="Email" disabled>
+    </div>
+    <div class="form-group">
+        <label for="exampleFirstName">First Name</label>
+        <input type="text" class="form-control" formControlName="FirstName" placeholder="First Name">
+
+        <small class="text-danger"
+            *ngIf="userService.myProfileModel.get('FirstName').touched && userService.myProfileModel.get('FirstName').errors?.required">This
+            field is mandatory.</small>
+    </div>
+
+    <div class="form-group">
+        <label for="exampleLastName">Last Name</label>
+        <input type="text" class="form-control" formControlName="LastName" placeholder="Last Name">
+        <small class="text-danger"
+            *ngIf="userService.myProfileModel.get('LastName').touched && userService.myProfileModel.get('LastName').errors?.required">This
+            field is mandatory.</small>
+    </div>
+    <button type="submit" class="btn btn-primary " [disabled]="!userService.myProfileModel.valid">Update
+        Profile</button>
+</form>

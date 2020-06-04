@@ -1,0 +1,20 @@
+<div class="container">
+
+    <br />
+    <div *ngIf="isShowAccountActivationResponseBlock">
+        <div class="alert alert-success" role="alert" *ngIf="isAccountActivated; else failure">
+            <div class="col text-center">
+                {{serverResponseMessage}}
+                <p>
+                    <a class="nav-link" routerLink="/user/login">Please click here to login
+                    </a>
+                </p>
+            </div>
+        </div>
+        <ng-template #failure>
+            <div class="alert alert-danger" role="alert">
+                {{serverResponseMessage}}
+            </div>
+        </ng-template>
+    </div>
+</div>

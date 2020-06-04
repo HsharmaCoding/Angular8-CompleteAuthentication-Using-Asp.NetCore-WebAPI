@@ -1,0 +1,90 @@
+<section>
+    <form [formGroup]="userService.registrationModel" autocomplete="off" (submit)="onSubmit()">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8 col-lg-8 col-xl-6">
+                    <div class="row">
+                        <div class="col text-center">
+                            <!-- <h1>Register</h1> -->
+                            <i class="fa fa-user-plus fa-5x" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                    <div class="row align-items-center mt-4">
+                        <div class="col">
+                            <input class="form-control" formControlName="FirstName" placeholder="First Name">
+                        </div>
+                    </div>
+                    <label class="text-danger"
+                        *ngIf="userService.registrationModel.get('FirstName').touched && userService.registrationModel.get('FirstName').errors?.required">This
+                        field is mandatory.</label>
+
+                    <div class="row align-items-center mt-4">
+                        <div class="col">
+                            <input class="form-control" formControlName="LastName" placeholder="Last Name">
+                        </div>
+                    </div>
+                    <label class="text-danger"
+                        *ngIf="userService.registrationModel.get('LastName').touched && userService.registrationModel.get('LastName').errors?.required">This
+                        field is mandatory.</label>
+
+
+                    <div class="row align-items-center mt-4">
+                        <div class="col">
+                            <input class="form-control" formControlName="Email" placeholder="Email Address">
+                        </div>
+                    </div>
+                    <label class="text-danger"
+                        *ngIf="userService.registrationModel.get('Email').touched && userService.registrationModel.get('Email').errors?.email">Invalid
+                        email address.</label>
+                    <label class="text-danger"
+                        *ngIf="userService.registrationModel.get('Email').touched && userService.registrationModel.get('Email').errors?.required">This
+                        field is mandatory.</label>
+
+
+                    <div formGroupName="Passwords">
+                        <div class="row align-items-center mt-4">
+                            <div class="col">
+                                <input class="form-control" formControlName="Password" type="password"
+                                    placeholder="Password">
+                            </div>
+                        </div>
+                        <label class="text-danger"
+                            *ngIf="userService.registrationModel.get('Passwords.Password').touched && userService.registrationModel.get('Passwords.Password').errors?.required">This
+                            field is mandatory.</label>
+                        <label class="text-danger"
+                            *ngIf="userService.registrationModel.get('Passwords.Password').touched && userService.registrationModel.get('Passwords.Password').errors?.minlength">Minimum
+                            4 characters required.</label>
+
+                        <div class="row align-items-center mt-4">
+                            <div class="col">
+                                <input class="form-control" formControlName="ConfirmPassword" type="password"
+                                    placeholder="Confirm Password">
+                            </div>
+                        </div>
+                        <label class="text-danger"
+                            *ngIf="userService.registrationModel.get('Passwords.ConfirmPassword').touched && userService.registrationModel.get('Passwords.ConfirmPassword').errors?.required">This
+                            field is mandatory.</label>
+                        <label class="text-danger"
+                            *ngIf="userService.registrationModel.get('Passwords.ConfirmPassword').touched && userService.registrationModel.get('Passwords.ConfirmPassword').errors?.passwordMismatch">Confirm
+                            Password does not match.</label>
+                    </div>
+
+                    <div class="row justify-content-start mt-4">
+                        <div class="col">
+                            <button type="submit" class="btn btn-primary  form-control"
+                                [disabled]="!userService.registrationModel.valid">Create Account</button>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col text-center">
+                            <p class="text-h3">Already have an account? <a class="nav-link"
+                                    routerLink="/user/login">Login Here</a></p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </form>
+</section>

@@ -1,0 +1,67 @@
+<section>
+    <form #loginForm="ngForm" autocomplete="off" (submit)='onSubmit($event, loginForm)'>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8 col-lg-8 col-xl-6">
+                    <div class="row">
+                        <div class="col text-center">
+                            <!-- <h1>Login</h1> -->
+                            <i class="fa fa-sign-in fa-5x" aria-hidden="true"></i>
+                        </div>
+                    </div>
+
+                    <div class="row align-items-center mt-4">
+                        <div class="col">
+                            <input type="email" class="form-control" #email="ngModel" name="Email"
+                                [(ngModel)]="loginModel.Email" placeholder="Email Address" [disabled]="isDisabled"
+                                required email>
+                        </div>
+
+                    </div>
+                    <label class="text-danger" *ngIf=" email.touched && email.errors?.required">This
+                        Email is required
+                    </label>
+                    <label class="text-danger" *ngIf="email.touched && email.errors?.email">This
+                        Email must be a valid email address
+                    </label>
+
+
+                    <div class="row">
+                        <div class="col text-center">
+                            <a style="float:right" class="nav-link" routerLink="/user/forgetPassword">Forget
+                                Password?</a>
+                        </div>
+                    </div>
+
+
+                    <div class="row align-items-center mt-4">
+                        <div class="col">
+                            <input type="password" class="form-control" #password="ngModel" name="Password"
+                                [(ngModel)]="loginModel.Password" placeholder="Password" required="required"
+                                [disabled]="isDisabled">
+                        </div>
+                    </div>
+                    <label class="text-danger" *ngIf="password.touched && password.errors?.required">This
+                        Password is required
+                    </label>
+
+
+                    <div class="row justify-content-start mt-4">
+                        <div class="col">
+                            <button type="submit" class="btn btn-primary  form-control"
+                                [disabled]="loginForm.invalid || isDisabled">Login</button>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col text-center">
+                            <p class="text-h3">Don't have an account? <a class="nav-link"
+                                    routerLink="/user/registration">Register Here</a></p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </form>
+</section>

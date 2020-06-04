@@ -1,0 +1,40 @@
+● src
++---● app
+|   +--● user
+|   |  |--user.component.ts|.html
+|   |  +--● registration
+|   |  |  |--registration.component.ts|.html
+|   |  +--● login
+|   |  |   |--login.component.ts|.html
+|   |  +--● account-activation
+|   |  |  |--account-activation.component.ts|.html
+|   |  +--● forget-password
+|   |  |   |--forget-password.component.ts|.html
+|   |  +--● password-reset
+|   |  |   |--login.component.ts|.html
+|   |  
+|   +--● home
+|   |  |--home.component.ts|.html
+|   |  +--● change-password
+|   |  |  |--change-password.component.ts|.html
+|   |  +--● my-profile
+|   |  |   |--my-profile.component.ts|.html
+|   |  +--● program1 //For testing of role based access
+|   |  |  |--program1.component.ts|.html
+|   |  +--● program2 //For testing of role based access
+|   |  |   |--program2.component.ts|.html
+
+|   +--● forbidden
+|   |  |--forbidden.component.ts|.html
+|   |  
+|   +--● shared
+|   |  |--user.service.ts
+|   |  
+|   +--● auth
+|   |  |--auth.guard.ts
+|   |  |--auth.interceptor.ts
+|   |
+|   |--app.module.ts
+|   |--app-routing.module.ts (route configs.)
+|
+|--index.html (cdn path for bootstrap)
