@@ -1,0 +1,59 @@
+Following functionality are developed :
+
+Applied JWT authentication
+Asp.Net Identity
+
+1) Registration
+	> Reactive Form Approach 
+	> Confirm email to activate the account
+	
+2) Login
+	> Template driven approach
+	
+3) Forgot Password
+	> Reactive Form Approach 
+	> Reset password link will be sending to the registered email address.
+	> Reset password screen to update the password
+		
+4) Home Page after login
+
+5) My Profile 
+
+6) Change Password
+
+Note : Please refer the document : AngularApp.docx for complate application demo.
+
+**************Angular***************************************************
+Angular CLI: 8.1.2
+Node: 10.16.0
+************************************************************************
+
+*************Asp.Net Core Web API***************************************
+
+Create Web API (.Net Core 2.2)
+
+Create Libraries : 
+	> CommonCore.DataAccess
+		> Install following packages on DataAccess library
+			> Microsoft.EntityFrameworkCore (2.2)
+			> Microsoft.EntityFrameworkCore.SqlServer (2.2)
+			> Microsoft.EntityFrameworkCore.Tools (2.2)
+			> Microsoft.AspNetCore.All(2.2)
+			
+	> CommonCore.Domain
+	> CommonCore.Services
+	> CommonCore.Helper [Helper classed to access the web configurations]
+		> Install following packages on helper library
+			> Microsoft.Extensions.Configuration (2.2)
+			> Microsoft.Extensions.Configuration.Json (2.2)
+			
+Generate table using migration command :
+
+	> Add-Migration "InitialCreate" (Select data access library while runnig migration : CommonCoreAPI.DataAccess)
+                > Update-Database
+	
+Note: Before running the project you have to update the email and password for sending email through system - EmailService
+
+****************************************************************************
+			
+	
